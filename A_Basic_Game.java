@@ -4,8 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
 import javax.swing.*;
-/*<applet code="A_Basic_Game" width=400 height=400>
-</applet>*/
+
 public class A_Basic_Game extends JApplet implements KeyListener
 {       int k,x,i,j,z,z1,z2,c,k1,f,l,t;
         int xb[]=new int[10000];
